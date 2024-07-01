@@ -1,1 +1,1 @@
-Credit to: [BrutFub]([https://github.com/BrutFab]) 
+Credit to: [BrutFub](https://github.com/BrutFab) 
